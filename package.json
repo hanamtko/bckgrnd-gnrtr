@@ -1,0 +1,22 @@
+{
+  "name": "bckgrnd-gnrtr",
+  "version": "1.0.0",
+  "description": "Zero To Mastery backround generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanamtko/bckgrnd-gnrtr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanamtko/bckgrnd-gnrtr/issues"
+  },
+  "homepage": "https://github.com/hanamtko/bckgrnd-gnrtr#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
